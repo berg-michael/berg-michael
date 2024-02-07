@@ -17,4 +17,4 @@ I enjoy writing code with a focus on performance, and reasoning about how to imp
 
 Since September 2023, I have served as a Teaching Assistant for MPCS 55001 "Algorithms". I develop content for and lead office hour sessions, answer student questions, and write homework and exam problems. I also supervise the grading of assignments. 
 
-I have previously worked as a Research Specialist at the University of Chicago Law School, where I assisted with quantitative research on policing and private security. I primarily wrote code in R to clean data and conduct statistical analyses. I am a coauthor on "Private Policing and Public Police", which has recently been accepted for publication at the Journal of Empierical Legal Studies. 
+I have previously worked as a Research Specialist at the University of Chicago Law School, where I assisted with quantitative research on policing and private security. I primarily wrote code in R to clean data and conduct statistical analyses. I am a coauthor on "Private Policing and Public Police", which has recently been accepted for publication at the Journal of Empirical Legal Studies. 
