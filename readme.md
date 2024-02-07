@@ -12,6 +12,7 @@ My experience includes:
 - Implementing parallel sorting algorithms in Go
 - Developing a Python FaaS platform using FastAPI, ZMQ, and Redis
 - Writing a compiler in Go for a subset of the Go programming language using ANTLR and LLVM
+- Administering a personal Linux server using Docker and QEMU/KVM
 
 I enjoy writing code with a focus on performance, and reasoning about how to implement serial and parallel algorithms in a way that is appropriate for the architecture on which they will run. 
 
