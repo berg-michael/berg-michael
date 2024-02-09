@@ -13,8 +13,9 @@ My experience includes:
 - Developing a Python FaaS platform using FastAPI, ZMQ, and Redis
 - Writing a compiler in Go for a subset of the Go programming language using ANTLR and LLVM
 - Administering a personal Linux server using Docker and QEMU/KVM
+- Working with embedded Linux devices for personal projects, including using Buildroot to configure and compile OpenWRT
 
-I enjoy writing code with a focus on performance, and reasoning about how to implement serial and parallel algorithms in a way that is appropriate for the architecture on which they will run. 
+I enjoy writing code with a focus on performance and correctness, and reasoning about how to implement serial and parallel algorithms in a way that is appropriate for the architecture on which they will run. 
 
 Since September 2023, I have served as a Teaching Assistant for MPCS 55001 "Algorithms". I develop content for and lead office hour sessions, answer student questions, and write homework and exam problems. I also supervise the grading of assignments. 
 
