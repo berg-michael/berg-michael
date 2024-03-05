@@ -6,11 +6,12 @@ I am seeking an internship for Summer 2024.
 
 My experience includes:
 
+- Developing a Python FaaS platform using FastAPI, ZMQ, and Redis
 - Writing parallel implementations in C/C++ of scientific computing algorithms for use on shared/distributed memory systems with OpenMP/MPI
 - Optimizing performance of serial algorithms/serial components of parallel algorithms using SIMD
 - Programming for GPUs with CUDA
+- Using high-performance libraries (e.g. NVidia CuBLAS, Intel MKL) to accelerate existing programs
 - Implementing parallel sorting algorithms in Go
-- Developing a Python FaaS platform using FastAPI, ZMQ, and Redis
 - Writing a compiler in Go for a subset of the Go programming language using ANTLR and LLVM
 - Administering a personal Linux server using Docker and QEMU/KVM
 - Working with embedded Linux devices for personal projects, including using Buildroot to configure and compile OpenWRT
