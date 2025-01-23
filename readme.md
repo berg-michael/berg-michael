@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a current Master's Student in Computer Science at the University of Chicago My specialization is High-Performance Computing. I will be graduating in March 2025.  
+I'm a current Master's Student in Computer Science at the University of Chicago. My specialization is High-Performance Computing. I will be graduating in March 2025.  
 
 I am currently a Graduate Computing Scholar at Lawrence Livermore National Laboratory. 
 
