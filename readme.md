@@ -20,6 +20,6 @@ My experience includes:
 
 I enjoy writing code with a focus on performance and correctness, and reasoning about how to implement serial and parallel algorithms in a way that is appropriate for the architecture on which they will run. 
 
-Since September 2023, I have served as a Teaching Assistant for MPCS 55001 "Algorithms". I develop content for and lead office hour sessions, answer student questions, and write homework and exam problems. I also supervise the grading of assignments. 
+Since September 2023, I have served as a Teaching Assistant for MPCS 55001 "Algorithms" and MPCS 55005 "Advanced Algorithms". I develop content for and lead office hour sessions, answer student questions, and write homework and exam problems. I also supervise the grading of assignments. 
 
 I have previously worked as a Research Specialist at the University of Chicago Law School, where I assisted with quantitative research on policing and private security. I primarily wrote code in R to clean data and conduct statistical analyses. I am a coauthor on ["Private Security and Public Police"](https://onlinelibrary.wiley.com/doi/10.1111/jels.12393), which was recently published in the Journal of Empirical Legal Studies. 
